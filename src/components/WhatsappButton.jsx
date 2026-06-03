@@ -1,4 +1,4 @@
-import { WHATSAPP_NUMBER } from "../config/contact";
+import React from 'react';
 
 export default function WhatsAppButton() {
   return (
