@@ -11,11 +11,11 @@ export default function Contact() {
         </h1>
 
         <p className="mb-4">
-          Phone: +234 XXX XXX XXXX
+          Phone: +2347064485955
         </p>
 
         <p className="mb-4">
-          Email: info@ilokaspark.com
+          Email: ilokasparktechnologies@gmail.com
         </p>
 
         <p className="mb-6">
@@ -23,7 +23,7 @@ export default function Contact() {
         </p>
 
         <a
-          href="https://wa.me/2348012345678?text=Hello%20IlokaSpark%20Technologies,%20I%20need%20your%20electrical%20services."
+          href="https://wa.me/2347064485955?text=Hello%20IlokaSpark%20Technologies,%20I%20need%20your%20electrical%20services."
           target="_blank"
           rel="noopener noreferrer"
           className="bg-green-500 text-white px-8 py-4 rounded-lg inline-block mt-6"

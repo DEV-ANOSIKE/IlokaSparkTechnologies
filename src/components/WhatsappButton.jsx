@@ -3,7 +3,7 @@ import { WHATSAPP_NUMBER } from "../config/contact";
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/234YOURNUMBER"
+      href="https://wa.me/2347064485955"
       target="_blank"
       rel="noopener noreferrer"
       className="

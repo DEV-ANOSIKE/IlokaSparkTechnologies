@@ -40,7 +40,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://wa.me/2348012345678"
+                href="https://wa.me/2347064485955"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 hover:bg-green-600 px-8 py-4 rounded-lg transition"
